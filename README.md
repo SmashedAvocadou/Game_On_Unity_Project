@@ -37,7 +37,7 @@ This is a 3D Unity game. Includes basic mechanics, player controls, enemies, and
 
 
 
-## 🚀 Как запустить
+## 🚀 How to start
 
 1. Clone project:
 git clone https://github.com/SmashedAvocadou/Game_On_Unity_Project.git
