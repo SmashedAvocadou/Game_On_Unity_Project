@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Project\u21162\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|d:\\unity\\project\u21162\\assets\\script\\minigun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\minigun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|D:\\Unity\\Project\u21162\\assets\\script\\rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|D:\\Unity\\Project\u21162\\assets\\script\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|D:\\Unity\\Project\u21162\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|D:\\Unity\\Project\u21162\\assets\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|D:\\Unity\\Project\u21162\\assets\\script\\walkenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\walkenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|D:\\Unity\\Project\u21162\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|D:\\Unity\\Project\u21162\\assets\\script\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3765864-0341-1485-3A37-DD6620F18394}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:59:07.583Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThirdPersonCamera.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\ThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ThirdPersonCamera.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\ThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\ThirdPersonCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:37:07.413Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalkEnemy.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\WalkEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WalkEnemy.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\WalkEnemy.cs",
+              "RelativeToolTip": "Assets\\Script\\WalkEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:47:03.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:33:45.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniGun.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\MiniGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MiniGun.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\MiniGun.cs",
+              "RelativeToolTip": "Assets\\Script\\MiniGun.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:10:06.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pistol.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\Pistol.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pistol.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\Pistol.cs",
+              "RelativeToolTip": "Assets\\Script\\Pistol.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:43:12.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rifle.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\Rifle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Rifle.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\Rifle.cs",
+              "RelativeToolTip": "Assets\\Script\\Rifle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:30:03.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\u21162\\Assets\\Script\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon.cs",
+              "ToolTip": "D:\\Unity\\Project\u21162\\Assets\\Script\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:36:45.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
